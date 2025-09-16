@@ -103,7 +103,7 @@ class MidiPlayerApp(QMainWindow):
     def init_ui(self):
         """初始化UI界面"""
         # 设置窗口属性
-        self.setWindowTitle("midi 虚拟接口输出 v0.0.5 (GUI Mode)")
+        self.setWindowTitle("Trusler's MIDI Player - v0.0.3(GUI Mode)")
         self.setGeometry(100, 100, 1200, 900)
         self.setMinimumSize(900, 600)
         
