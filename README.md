@@ -40,7 +40,7 @@
 - pip install PyQt6 mido python-rtmidi
 
 # 启动应用程序
-python main.py
+python 0.0.3.py
 
 # 安装loopMIDI虚拟midi硬件(可选)
 前往https://www.tobias-erichsen.de/software/loopmidi.html 下载loopmidi（https://www.tobias-erichsen.de/wp-content/uploads/2020/01/loopMIDISetup_1_0_16_27.zip）
